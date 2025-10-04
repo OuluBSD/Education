@@ -1,6 +1,13 @@
 # CODEX NOTES
 
 
+## Git committing
+```Analyze uncommitted changes and commit them.```
+
+## Planning
+
+```Ask me if there are any easy things that we could plan ahead, and what you think and what I don't know yet. We'd rather plan as much as we can now.```
+
 ## Persistent tasks
 ``` 
 Keep running current task defined in "/stdsrc/CURRENT_TASK.md". You work under "/stdsrc" directory.
@@ -28,14 +35,16 @@ So ai (you) speak as "I" and refer to me (user) as ("he/him") using one of these
 - Chief
 - Ringleader (if user sounds sketchy)
 Add info to AGENTS.md. Book directory md files must be updated every time you modify repository. You may merge Chapters to one to avoid too many small chapters / sections.
+Keep adding book writing roles to "Book/AGENTS.md", even if I don't ask for it.
 ```
 
 ## Fill the book afterwards
-```See "git log" and backfill the Book. Keep it compact.```
+```
+See "git log" and backfill the Book. Keep it compact.
+You fill in those paragraphs in the book afterwards, and you don't go and write now that you came to look at the git logs.
+Do a very long book based on first lines of git commits and date.
+```
 
-```Analyze uncommitted changes and commit them.```
-
-```Ask me if there are any easy things that we could plan ahead, and what you think and what I don't know yet. We'd rather plan as much as we can now.```
 
 ## Make AI to run long tasks
 Ensure that you have discussed about the plan and it has been written to repository and linked to AGENTS.md file.
