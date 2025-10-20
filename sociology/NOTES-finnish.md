@@ -1,3 +1,10 @@
+## Sananvapaus
+Seurasin zerohedgeä 2020 alusta lähtien, ja näin kaiken todellisen kommennoinnin. Enpä todellakaan uskonut PCR-testiä enkä ottanut rokotetta. Harmi että oli ihan turha puhua mistään muille. Opetus oli vain se, että lue ihmisten kommentteja siellä missä on sananvapautta.
+
+Kommentointi oli osin zerohedgen artikkeleita merkittäviltä henkilöiltä, ja osin kaikkien ihmisten kommentteja artikkeleihin.
+Osa kommenttikentän viesteistä on tietenkin roskaa, trollausta ja vain typerää itsessään, mutta interaktiivisena viestien kollektina niillekkin on paikkansa.
+Täytyy muistaa, että totuuden-puhuja nauttii usein siitä, että ympärillä on roskan-puhujia, jotta ei ole ensimmäisenä maalitauluna.
+
 
 ## "Voiko tekoäly löytää uusia materiaaleja?"
 **3.10.2025**
