@@ -10,6 +10,8 @@
 - feedback-loop: Keep adding debug-printing under verbosity flags, and fixing them
 - GUI: grasping the problem: add debug printing, and make the agent to see some values (e.g. x,y) to see the problem. Add comparison values: other objects, previous state, etc. If too much printing, add conditional printin: 'print only after x'.
 - GUI: grasping the problem: ask the model to run the program for you, and to follow action via logs.
+- init fails: Please add verbosity flag to log phases of initialization, when "-v" flag is set.
+- serialisation fails partially: Can you open anything? Could you dump to stdout with extra-verbosity flag "-v2" some variables what have been loaded. Names and values. We might catch the first offending variable in the serialisation that way. Try that. Try dumping loaded files and if you see weird values, fix based on that.
 
 
 ## Multi agent mode
@@ -17,4 +19,5 @@
 
 ## OS Root handling
 - Usually models don't want to do "superuser tasks" or system installation, like Gentoo installation. Start by 'run in shell: "ssh root@<address> lsblk"' or similar to force it to use that. Then tell to do something remotely. Make sure that ssh works without asking for password.
+
 
