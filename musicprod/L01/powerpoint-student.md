@@ -21,24 +21,42 @@ Slide 3 — Sequencer Basics
 Image Prompt
 - “Close-up of a piano roll editor with notes on grid, simple educational style.”
 
-Slide 4 — Build the Beat
+Slide 4 — Add Piano/Chords First
+- Create chord rhythm using NN-XT or other synth
+- Simple 4-note pattern to establish harmony
+- Keep it basic to focus on timing
+
+Image Prompt
+- "Piano keyboard with simple chord patterns highlighted, educational style."
+
+Slide 5 — Build the Beat
 - Kick/snare/hat pattern; clone to 16 bars.
 - Add fills only on B section.
 
 Image Prompt
-- “Drum machine pattern with kick, snare, hi-hat lanes, friendly infographic.”
+- "Drum machine pattern with kick, snare, hi-hat lanes, friendly infographic."
 
-Slide 5 — Add Bass & Piano
-- Subtractive bass (ADSR), piano motif.
+Slide 6 — Add Bass Line
+- Subtractive bass (ADSR) to complement drums and piano
+- Simple rhythmic pattern that follows chord progression
 - Space with reverb send.
 
 Image Prompt
-- “Synthesizer knob panel labeled ADSR, clean vector art.”
+- "Synthesizer knob panel labeled ADSR, clean vector art."
 
-Slide 6 — Export & Next
-- Name clearly; export WAV.
-- Homework: A–B sections to 32 bars.
+Slide 7 — Arrange & Export
+- Structure your 16-bar loop with A-B sections
+- Balance levels and check the mix
+- Export as WAV named `L01_loop_v01.wav`
 
 Image Prompt
-- “File export dialog with WAV selected, tidy UI mock, flat design.”
+- "Mixer with multiple channels showing piano, drums, and bass, clean layout."
+
+Slide 8 — Timetable & Support
+- 2-3 hours with structured learning breaks
+- Piano first → then drums → then bass approach
+- Step-by-step guidance throughout the session
+
+Image Prompt
+- "Schedule timeline showing 2-3 hour lesson with different music elements added over time, educational infographic."
 
